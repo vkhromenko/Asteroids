@@ -1,0 +1,9 @@
+C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\Logon_project\Asteroids\AsteroidTest\bin\Debug\AsteroidTest.exe.config
+C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\Logon_project\Asteroids\AsteroidTest\bin\Debug\AsteroidTest.exe
+C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\Logon_project\Asteroids\AsteroidTest\bin\Debug\AsteroidTest.pdb
+C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\Logon_project\Asteroids\AsteroidTest\obj\Debug\AsteroidTest.csprojResolveAssemblyReference.cache
+C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\Logon_project\Asteroids\AsteroidTest\obj\Debug\AsteroidTest.AsteroidsForm.resources
+C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\Logon_project\Asteroids\AsteroidTest\obj\Debug\AsteroidTest.Properties.Resources.resources
+C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\Logon_project\Asteroids\AsteroidTest\obj\Debug\AsteroidTest.csproj.GenerateResource.Cache
+C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\Logon_project\Asteroids\AsteroidTest\obj\Debug\AsteroidTest.exe
+C:\Users\vkhromenko\Documents\Visual Studio 2015\Projects\Logon_project\Asteroids\AsteroidTest\obj\Debug\AsteroidTest.pdb
